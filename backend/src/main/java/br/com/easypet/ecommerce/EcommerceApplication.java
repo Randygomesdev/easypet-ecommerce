@@ -1,4 +1,4 @@
-package com.easypet.ecommerce;
+package br.com.easypet.ecommerce;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
